@@ -36,7 +36,7 @@ The Developer Is Not Responsible For Any Misuse Or Damage Caused By This Tool.
 
 ## Installation
 
-- git clone https://github.com/scriptkiddiex/maskurl.git
+- git clone https://github.com/WasselSec/MaskUrl.git
 
 - cd maskurl
 - python maskurl.py
