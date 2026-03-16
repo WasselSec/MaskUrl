@@ -44,7 +44,7 @@ def home_logo():
 def home_about():
     about_text = (
         "╔════════════════════════════════════════════════════════════╗\n"
-        "║  MaskUrl v1.0.2 | Created by ScriptKiddie                  ║\n"
+        "║  MaskUrl v1.0.2 | Created by WasselSec                     ║\n"
         "║  Licensed under MIT | Copyright (c) 2026                   ║\n"
         "║  Usage: For Educational & Authorized Testing Only          ║\n"
         "╚════════════════════════════════════════════════════════════╝"
