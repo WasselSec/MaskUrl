@@ -1,6 +1,6 @@
 # MaskUrl
 
-**Coded By ScriptKiddie**
+**Coded By WasselSec**
 
 MaskUrl Will Help You To Mask Suspicious URLs And Make Them Look Legit Using URL Shorteners And Domain Tricks
 Designed For Security Awareness Training And Authorized Penetration Testing
